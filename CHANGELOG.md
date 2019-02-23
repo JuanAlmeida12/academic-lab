@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Updated README.
+
 ## [0.0.1-beta] - 2019-02-23
 
 ### Added
